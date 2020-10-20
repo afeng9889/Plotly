@@ -1,0 +1,44 @@
+.jumbotron {
+
+    background-size: cover;
+    text-align: center;
+  }
+
+  .jumbo_text {
+    color: white;
+  }
+
+body {
+  font-family: Arial;
+}
+
+.well {
+  border-color: rgb(104, 93, 202);
+}
+
+.panel-primary {
+  border-color: rgb(104, 93, 202);
+}
+
+#barchart {
+  border-style: solid;
+  border-color: rgb(104, 93, 202);
+  border-width: thin;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+#gaugechart {
+  border-style: solid;
+  border-color: rgb(104, 93, 202);
+  border-width: thin;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+#bubblechart {
+  border-style: solid;
+  border-color: rgb(104, 93, 202);
+  border-width: thin;
+  border-radius: 5px;
+}
